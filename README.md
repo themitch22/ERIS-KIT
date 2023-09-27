@@ -16,3 +16,16 @@ Team SeeMeCNC (:
 
 Open Source
 
+=========================
+
+I will maintain this fork with additional upgrade parts for the Eris Parts Kit and additional documentation.
+
+Recommended Upgrade BOM:
+*  E3D Revo Micro 12V kit
+*  BTT SKR Mini E3 V3 control board
+*  Voron V0.2 Mini OLED Display Controller (designed by Timmit99)
+*  2 x GDSTime 3010 12V Blower Fans
+*  8 x M2 x 10mm self-tapping screws
+*  8 x M3 x 8mm BHCS
+*  Various JST-XH crimp connectors
+*  Various Dupont crimp connectors
